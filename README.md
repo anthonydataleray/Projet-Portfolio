@@ -1,30 +1,63 @@
-# ✈️ Portfolio Stratégique : Chef de Projet Data Analyst
+# ✈️ Portfolio Data Analyst | Chef de Projet
 
-## 📌 Présentation du Projet
-[cite_start]Ce dépôt constitue le volet technique de mon portfolio professionnel[cite: 111, 125]. [cite_start]Il répond aux défis de gestion de la data à grande échelle de l'entreprise **Aéroworld**, spécialisée dans la conception et la maintenance aéronautique[cite: 47, 80].
+## 👋 À propos
+Bienvenue sur mon portfolio GitHub.
 
----
+Ce projet simule une mission en tant que **Chef de Projet Data Analyst** au sein de l’entreprise **Aéroworld**, spécialisée dans la conception et la maintenance aéronautique.
 
-## 🎯 Enjeux & Missions pour Aéroworld
-[cite_start]En tant que Chef de Projet, ma mission est de transformer les données massives en leviers de performance[cite: 74, 75]:
-
-* [cite_start]**Maintenance Prédictive** : Anticiper les pannes via l'analyse des capteurs pour réduire l'immobilisation des avions[cite: 62, 64, 132].
-* [cite_start]**Optimisation Opérationnelle** : Exploiter les essais en vol pour améliorer la conception et les itinéraires[cite: 54, 59, 131].
-* [cite_start]**Sécurité & Gouvernance** : Garantir la protection des données sensibles et la conformité RGPD[cite: 66, 68, 108].
-* [cite_start]**Architecture Data** : Déployer des infrastructures type **Data Lake** pour harmoniser les sources hétérogènes[cite: 86, 135].
+🎯 Objectif : démontrer ma capacité à piloter un projet data de bout en bout, de l’analyse métier à la mise en œuvre technique.
 
 ---
 
-## 🛠️ Stack Technique & Veille
-* [cite_start]**Gestion de Projet** : Utilisation d'outils Agiles et rédaction de **Cahiers des Charges Fonctionnels**[cite: 94, 95].
-* [cite_start]**Data Stack** : Expertise en **Python**, **Power BI** et veille active sur **Microsoft Fabric**[cite: 31, 32].
-* [cite_start]**Versioning** : Suivi rigoureux des modifications via **Git** et déploiement sur GitHub Pages[cite: 155, 158].
+## 🧠 Problématique Métier
+Dans un contexte industriel à forte volumétrie de données, Aéroworld cherche à :
+
+- Réduire les coûts de maintenance
+- Améliorer la performance opérationnelle
+- Garantir la sécurité des systèmes
+- Structurer et exploiter efficacement ses données
 
 ---
 
-## 📂 Organisation du Répertoire
-[cite_start]Ce repo respecte la structure de ma planification de projet[cite: 2, 4]:
-* [cite_start]`📂 Analyse-Besoins` : Diagnostic stratégique des besoins métiers[cite: 45, 77].
-* [cite_start]`📂 Cahier-des-charges` : Spécifications fonctionnelles et techniques[cite: 21, 111].
-* [cite_start]`📂 Veille-Metier` : Études sur les nouveaux outils et méthodes d'analyse[cite: 15].
-* [cite_start]`📂 Livrables` : Preuves de compétences et procédures de documentation[cite: 7, 33].
+## 💡 Solutions proposées
+
+### 🔧 Maintenance Prédictive
+Analyse des données capteurs pour anticiper les pannes et limiter les immobilisations.
+
+### 📊 Optimisation des performances
+Exploitation des données de vols pour améliorer les trajectoires et la conception.
+
+### 🔐 Gouvernance & Sécurité
+Mise en place de bonnes pratiques pour la gestion des données sensibles (RGPD).
+
+### 🗄️ Architecture Data
+Conception d’une architecture de type **Data Lake** pour centraliser et fiabiliser les données.
+
+---
+
+## 🛠️ Compétences mobilisées
+
+- **Analyse de données** : Python, Power BI
+- **Gestion de projet** : méthodes Agile, rédaction de cahiers des charges
+- **Data Engineering (notions)** : structuration des flux de données
+- **Outils** : Git, GitHub, veille sur Microsoft Fabric
+
+---
+
+## 📂 Structure du projet
+
+
+---
+
+## 🚀 Ce que ce projet démontre
+
+✔️ Compréhension des enjeux métier  
+✔️ Capacité à structurer un projet data  
+✔️ Maîtrise des outils d’analyse  
+✔️ Rigueur dans la documentation  
+
+---
+
+## 📬 Me contacter
+Ouvert aux opportunités en Data Analyst / Chef de Projet Data.
+
