@@ -35,16 +35,14 @@ Conception d’une architecture de type **Data Lake** pour centraliser et fiabil
 
 ---
 
-## 🛠️ Compétences mobilisées
 
-- **Analyse de données** : Python, Power BI
-- **Gestion de projet** : méthodes Agile, rédaction de cahiers des charges
-- **Data Engineering (notions)** : structuration des flux de données
-- **Outils** : Git, GitHub, veille sur Microsoft Fabric
 
 ---
 
 ## 📂 Structure du projet
+
+[[La démo Power BI](https://cdn.loom.com/sessions/thumbnails/VOTRE_ID_VIDEO-with-play.gif)](https://www.loom.com/share/9ad0ff5153cf41cab9fca92c2dfabc4b)
+
 
 
 ---
