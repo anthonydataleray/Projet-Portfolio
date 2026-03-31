@@ -66,5 +66,12 @@ Retrouvez ci-dessous l'ensemble des documents produits durant cette mission simu
 ---
 
 ## 📬 Me contacter
-Ouvert aux opportunités en Data Analyst / Chef de Projet Data.
+
+Vous avez un projet ou une opportunité en **Data Analysis** ou **Gestion de Projet Data** ? Discutons-en !
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-leray-1b5732152/)
+
+---
+
+*Ce projet a été réalisé dans le cadre de ma montée en compétences sur les métiers de la donnée et de la gestion de projet agile.*
 
