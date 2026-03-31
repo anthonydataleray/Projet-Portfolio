@@ -35,15 +35,24 @@ Conception d’une architecture de type **Data Lake** pour centraliser et fiabil
 
 ---
 
+## 📂 Les livrables du projet
 
+Retrouvez ci-dessous l'ensemble des documents produits durant cette mission simulée :
+
+### 📋 Pilotage & Stratégie
+* [📄 Analyse des Besoins Métiers (PDF)](./Analyse%20des%20Besoins%20M%C3%A9tiers.pdf)
+* [📊 Cahier des charges fonctionnel (PPTX)](./Cahier%20des%20charges%20fonctionnel.pptx)
+* [📅 Planning & Gantt (PBIX)](./Diagramme%20de%20Gantt.pbix)
+
+### 🛠️ Expertise Technique & Data
+* [📈 Dashboard Profil Data Analyst (PBIX)](./Profil_DA.pbix)
+* [🔍 Rapport de Veille (PBIX)](./Veille.pbix)
+* [📘 Guide Utilisateur Power BI (PDF)](./Guide%20Power%20BI.pdf)
+
+### 🎥 Démonstration Vidéo
+[![Regarder la démo](https://cdn.loom.com/sessions/thumbnails/9ad0ff5153cf41cab9fca92c2dfabc4b-with-play.gif)](https://www.loom.com/share/9ad0ff5153cf41cab9fca92c2dfabc4b)
 
 ---
-
-## 📂 Structure du projet
-
-[[La démo Power BI](https://cdn.loom.com/sessions/thumbnails/VOTRE_ID_VIDEO-with-play.gif)](https://www.loom.com/share/9ad0ff5153cf41cab9fca92c2dfabc4b)
-
-
 
 ---
 
